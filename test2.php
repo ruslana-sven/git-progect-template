@@ -3,4 +3,5 @@
 	echo"druga zmina";
 	echo"tretya zmina";
 	echo"lalala";
+	echo"zmina nova";
 ?>
