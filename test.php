@@ -5,4 +5,5 @@
 	echo"tretya zmina";
 	echo"zmina 4";
 	echo "zmina 5";
+	echo "zmina 6";
 ?>
